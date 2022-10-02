@@ -1,0 +1,63 @@
+body {
+ font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+ text-align: center;
+}
+
+footer {
+ text-align: center;
+}
+
+table {
+ text-align: center;
+ line-height: 1.5;
+   /* position: absolute;
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   height: 100%;
+   width: 100%; */
+  }
+
+td {
+ padding: 0.5%;
+}
+
+th {
+ padding: 0.5%;
+}
+
+.free,
+.recess,
+.program {
+ background-color: aqua;
+}
+
+.yellow {
+ background-color: yellow;
+}
+
+i {
+ color: black;
+}
+
+i:hover {
+ color: blue;
+}
+
+img {
+ height: 7%;
+ width: 7%;
+}
+
+p {
+ text-align: center;
+}
+
+.p {
+ font-family: 'Passions Conflict', cursive;
+ font-size: 2.5rem;
+}
